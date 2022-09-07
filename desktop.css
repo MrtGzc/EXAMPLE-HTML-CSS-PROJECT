@@ -197,6 +197,10 @@ content{
     padding: .5rem 3rem;
 }
 
+.footer{
+    text-align: center;
+}
+
 .footer-text a{
     text-decoration: none;
     margin: 1rem;
@@ -210,7 +214,7 @@ content{
 
 .social-media{
     text-align: center;
-    min-width: 20%;
+    min-width: 15%;
 }
 
 .social-media a{
