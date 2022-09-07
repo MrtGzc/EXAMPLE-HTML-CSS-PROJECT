@@ -1,7 +1,7 @@
 ﻿# Example-Project HTML CSS BOOTSTRAP
 
 
-## Html Css ve Bootstrapta öğrendiklerimi pekiştirmek için frontendmentor.io dan bulduğum bir web tasarımı koda döktüm
+## Html Css ve Bootstrapta öğrendiklerimi pekiştirmek için frontendmentor.io dan bulduğum bir web tasarımı birebir kopyasını yapmaya çalıştım
 
 
 ### Web Görünüm
